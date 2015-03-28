@@ -37,3 +37,4 @@ If you have any issues with the demo raise issues here [https://github.com/Just-
 License:
 --------
 This project is licensed under the terms of [MIT License](https://github.com/Just-hack/dropzone-sample/blob/master/LICENSE)
+# dropzone-rails-demo
